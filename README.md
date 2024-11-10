@@ -102,11 +102,7 @@ The results illustrate how various color spaces affect the performance of classi
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; text-align: center;">
-    <h4>Dataset 1 Histogram Plot</h4>
     <img src="https://github.com/Atulsharma428/Explainable_AI/blob/main/assets/Result_dataset_1.png" alt="Histogram plot of dataset-1" style="max-width: 100%;">
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <h4>Dataset 2 Histogram Plot</h4>
     <img src="https://github.com/Atulsharma428/Explainable_AI/blob/main/assets/Result_dataset_2.png" alt="Histogram plot of dataset-2" style="max-width: 100%;">
   </div>
 </div>
