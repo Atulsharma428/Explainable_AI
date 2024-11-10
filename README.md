@@ -15,10 +15,8 @@ This project aims to detect fish diseases by applying image processing technique
     - [Dataset 2 Results](#dataset-2-results)
     - [Dataset 1 Histogram](#dataset-1-histogram)
     - [Dataset 2 Histogram](#dataset-2-histogram)
-    - [Dataset 1 Results](#dataset-1-results)
-    - [Dataset 2 Results](#dataset-2-results)
-    - [Impact of Histogram Bin Sizes](#impact-of-histogram-bin-sizes)
-7. [Conclusion](#conclusion)
+    - [Feature importance plot of Dataset 1](#feature_imp)
+    - [Feature importance plot of Dataset 1](#feature_imp2)
 
 ---
 
@@ -97,13 +95,8 @@ The results illustrate how various color spaces affect the performance of classi
 ![Histogram plot of dataset-1](https://github.com/Atulsharma428/Explainable_AI/blob/main/assets/Result_dataset_1.png)
 ### Dataset 2 Histogram plot
 ![Histogram plot of dataset-2](https://github.com/Atulsharma428/Explainable_AI/blob/main/assets/Result_dataset_2.png)
-
-### Dataset 1 and Dataset 2 Histogram Plots
-
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; text-align: center;">
-    <img src="https://github.com/Atulsharma428/Explainable_AI/blob/main/assets/Result_dataset_1.png" alt="Histogram plot of dataset-1" style="max-width: 100%;">
-    <img src="https://github.com/Atulsharma428/Explainable_AI/blob/main/assets/Result_dataset_2.png" alt="Histogram plot of dataset-2" style="max-width: 100%;">
-  </div>
-</div>
+### Feature importance plot of Dataset 1
+![Histogram plot of dataset-1](https://github.com/Atulsharma428/Explainable_AI/blob/main/assets/Feature_importance_1.png)
+### Feature importance plot of Dataset 2
+![Histogram plot of dataset-2](https://github.com/Atulsharma428/Explainable_AI/blob/main/assets/Feature_importance_2.png)
 
