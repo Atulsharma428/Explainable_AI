@@ -13,8 +13,8 @@ This project aims to detect fish diseases by applying image processing technique
 6. [Results and Discussion](#results-and-discussion)
     - [Dataset 1 Results](#dataset-1-results)
     - [Dataset 2 Results](#dataset-2-results)
-    - [Dataset 1 Results](#dataset-1-results)
-    - [Dataset 2 Results](#dataset-2-results)
+    - [Dataset 1 Histogram](#dataset-1-histogram)
+    - [Dataset 2 Histogram](#dataset-2-histogram)
     - [Dataset 1 Results](#dataset-1-results)
     - [Dataset 2 Results](#dataset-2-results)
     - [Impact of Histogram Bin Sizes](#impact-of-histogram-bin-sizes)
@@ -93,5 +93,9 @@ The results illustrate how various color spaces affect the performance of classi
 ![Result of dataset-1](https://github.com/Atulsharma428/Explainable_AI/blob/main/assets/Result_table_1.png)
 ### Dataset 2 Results 
 ![Result of dataset-2](https://github.com/Atulsharma428/Explainable_AI/blob/main/assets/Result_table_2.png)
+### Dataset 1 Histogram plot 
+![Histogram plot of dataset-1](https://github.com/Atulsharma428/Explainable_AI/blob/main/assets/Result_dataset_1.png)
+### Dataset 2 Histogram plot
+![Histogram plot of dataset-2](https://github.com/Atulsharma428/Explainable_AI/blob/main/assets/Result_dataset_2.png)
 
 
